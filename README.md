@@ -1,4 +1,4 @@
-# AI Board Game A
+# Interactive Board Games with Python and AI
  This repository contains Python-based implementations of interactive board games developed with Pygame, showcasing algorithmic design, GUI development, and AI integration:
 
 

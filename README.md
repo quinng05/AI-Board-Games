@@ -1,10 +1,10 @@
-# Interactive Board Games with Python and AI
+# Interactive Board Games with Python and MiniMax Algorithm
  This repository contains Python-based implementations of interactive board games developed with Pygame, showcasing algorithmic design, GUI development, and AI integration:
 
 
 Connect 4: Implements game logic and a graphical interface for two-player interaction.
 
-Connect 4 with AI: Features an AI opponent using heuristic scoring for strategic decision-making.
+Connect 4 with AI: Features a CPU opponent using heuristic scoring for strategic decision-making.
 
 Tic-Tac-Toe (4x4): Extends the traditional game with a larger grid and custom win conditions, highlighting adaptable rule sets.
 
